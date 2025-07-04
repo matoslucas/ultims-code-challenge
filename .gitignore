@@ -1,0 +1,36 @@
+# Node modules
+node_modules
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.bak
+
+# Build artifacts
+dist
+.svelte-kit
+.env
+.env.local
+
+# OS generated files
+.DS_Store
+.Trashes
+thumbs.db
+
+# Svelte specific
+.svelte-kit/
+.env
+.env.local
+
+# Docker
+Dockerfile.bak
